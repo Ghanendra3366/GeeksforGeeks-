@@ -7,4 +7,4 @@
 <span style="font-size: 18px;"><strong>Output: </strong>[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<br></span></pre>
 <pre><strong>Input: </strong>arr[] = [38, 31, 20, 14, 30]
 <strong>Output: </strong>[14, 20, 30, 31, 38]</pre>
-<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>3<br></sup>1 ≤ arr[i] ≤ 10<sup>6</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Microsoft</code>&nbsp;<code>Medlife</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Sorting</code>&nbsp;
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>3<br></sup>1 ≤ arr[i] ≤ 10<sup>6</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Microsoft</code>&nbsp;<code>Medlife</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Sortinng</code>&nbsp;
